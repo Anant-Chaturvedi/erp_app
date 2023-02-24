@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520505883346",
+    "project_id": "erp-app-35bee",
+    "storage_bucket": "erp-app-35bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520505883346:android:032b97843c450277124b0b",
+        "android_client_info": {
+          "package_name": "com.erp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520505883346-cp2lah42hf4f4oouh1p65k37qd8a3kni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erp.app",
+            "certificate_hash": "52bfc3f89784bf3386b2293a241add54b26b1514"
+          }
+        },
+        {
+          "client_id": "520505883346-jsiv3cv4r3b73s7jjmaa61210ipce5el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCzMT9YaBemCApdQN5ajAEuPRbKqPMjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520505883346-jsiv3cv4r3b73s7jjmaa61210ipce5el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
